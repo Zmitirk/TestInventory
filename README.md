@@ -1,4 +1,4 @@
-This project demonstrates a simple inventory system.
+This project demonstrates a simple inventory system made in UE5
 
 Character has actor component "Inventory Component".
 It holds all character's items and has methods for adding items to inventory and consuming it from inventory.
